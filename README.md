@@ -1,4 +1,4 @@
-# Audio processing studies
+#  🎵🎶 Audio processing studies
 
 This notebooks represent some studies about audio signal processing. So the 
 content it's a mix from different sources found in internet to help 
